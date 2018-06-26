@@ -11,7 +11,7 @@ libs:STM32的开发库，编译生成的一个.a的静态库
 Makefile:主Makefile
 Makefile.common:有关单片机芯片的普遍变量定义
 linker.ld:STM32工程的链接脚本文件
-*.zip:STM32的开发库压缩包
+*.zip:STM32的开发库压缩包,后续版本可能会删除掉，因为是没有用的，解压的文件已经在libs里了
 *.hex *.bin 等：其他生成的目标文件
 
 三、作者信息：
